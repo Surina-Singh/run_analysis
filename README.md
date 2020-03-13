@@ -11,5 +11,8 @@
 ## 5. From the data set in step 4,
 
 # Files
-## CodeBook.md a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data
 ## run_analysis.R performs the data preparation and then followed by the 5 steps required as described in instructions
+## CodeBook.rmd a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data
+## tidy-dataset.txt Tidy dataset (prior to step 5)
+## tidy-datasetAVG.txt Tidy dataset average (After step 5)
+
